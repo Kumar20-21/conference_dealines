@@ -1,0 +1,204 @@
+# Q1 Journals relevant to Reinforcement Learning (RL), Multi-Agent RL, and Quantitative Finance
+# Extracted from SCImago Journal Rank (SJR) database, focusing on Computer Science, Finance and Economics subject areas
+# All journals accept submissions continuously unless noted otherwise
+
+journals:
+  - title: "Journal of Finance"
+    categories: ["Finance"]
+    sjr: 22.836
+    h_index: 370
+    quartile: "Q1"
+    issn: "0022-1082"
+    publisher: "Wiley (for the American Finance Association)"
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "asset-pricing", "finance"]
+    notes: "Flagship finance journal; publishes empirical and theoretical work in asset pricing, market microstructure, and algorithmic trading relevant for quantitative finance."
+
+  - title: "Journal of Financial Economics"
+    categories: ["Finance", "Economics"]
+    sjr: 17.669
+    h_index: 331
+    quartile: "Q1"
+    issn: "0304-405X"
+    publisher: "Elsevier"
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "empirical-finance", "economics"]
+    notes: "Premier outlet for empirical and methodological advances in corporate and asset-pricing research; frequent venue for machine-learning and reinforcement-learning techniques in finance."
+
+  - title: "Review of Financial Studies"
+    categories: ["Finance", "Economics"]
+    sjr: 16.546
+    h_index: 250
+    quartile: "Q1"
+    issn: "0893-9454"
+    publisher: "Oxford University Press for the Society for Financial Studies"
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "fintech", "banking"]
+    notes: "Top-tier journal covering asset-pricing, banking, and FinTech; hosts special issues on AI and data-science applications in markets."
+
+  - title: "Journal of Banking and Finance"
+    categories: ["Finance"]
+    sjr: 1.816
+    h_index: 211
+    quartile: "Q1"
+    issn: "0378-4266"
+    publisher: "Elsevier"
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "risk-management", "trading"]
+    notes: "Publishes work on market microstructure, risk-management, and trading strategies using reinforcement learning and deep learning."
+
+  - title: "Journal of Financial and Quantitative Analysis"
+    categories: ["Finance"]
+    sjr: 4.465
+    h_index: 156
+    quartile: "Q1"
+    issn: "0022-1090"
+    publisher: "Cambridge University Press"
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "portfolio-optimization", "RL"]
+    notes: "Focuses on empirical finance; quantitative methods papers frequently employ RL for portfolio optimisation and execution."
+
+  - title: "Finance and Stochastics"
+    categories: ["Finance", "Statistics"]
+    sjr: 1.002
+    h_index: 56
+    quartile: "Q1"
+    issn: "0949-2984"
+    publisher: "Springer"
+    submission_type: "continuous"
+    tags: ["mathematical-finance", "stochastic-control", "RL"]
+    notes: "Mathematical-finance journal covering stochastic control and optimal stopping; foundational for RL-inspired continuous-time models."
+
+  - title: "Quantitative Finance"
+    categories: ["Finance (misc.)"]
+    sjr: 0.715
+    h_index: 76
+    quartile: "Q1"
+    issn: "1469-7688"
+    publisher: "Taylor & Francis"
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "computational-finance", "RL"]
+    notes: "Specialist journal dedicated to mathematical and computational finance; regular RL and deep-learning applications in derivatives pricing and trading."
+
+  - title: "Review of Corporate Finance Studies"
+    categories: ["Finance"]
+    sjr: 4.122
+    h_index: 28
+    quartile: "Q1"
+    issn: "2046-9128"
+    publisher: "Oxford University Press"
+    submission_type: "continuous"
+    tags: ["corporate-finance", "ML", "empirical"]
+    notes: "Publishes high-impact research in corporate finance; includes recent ML and empirical design papers relevant to quantitative analysts."
+
+  - title: "ACM Computing Surveys"
+    categories: ["Computer Science (misc.)"]
+    sjr: 5.797
+    h_index: 232
+    quartile: "Q1"
+    issn: "0360-0300"
+    publisher: "Association for Computing Machinery"
+    submission_type: "continuous"
+    page_limit: "35 pages"
+    tags: ["surveys", "RL", "multi-agent", "finance-applications"]
+    notes: "Authoritative survey journal; state-of-the-art reviews on reinforcement learning, multi-agent systems, and finance applications. Long survey papers max 35 pages."
+
+  - title: "Journal of Machine Learning Research"
+    categories: ["Artificial Intelligence"]
+    sjr: 2.019
+    h_index: 280
+    quartile: "Q1"
+    issn: "1532-4435"
+    publisher: "Microtome Publishing"
+    submission_type: "continuous"
+    tags: ["machine-learning", "RL", "open-access"]
+    notes: "Open-access flagship ML journal; seminal papers by Sutton and collaborators on RL algorithms appear here. No page limit."
+
+  - title: "Machine Learning"
+    categories: ["Artificial Intelligence"]
+    sjr: 1.147
+    h_index: 175
+    quartile: "Q1"
+    issn: "0885-6125"
+    publisher: "Springer"
+    submission_type: "continuous"
+    tags: ["machine-learning", "RL", "policy-gradient", "MARL"]
+    notes: "Long-standing ML journal; publishes theoretical and applied RL, including policy-gradient and MARL work."
+
+  - title: "IEEE Transactions on Neural Networks and Learning Systems"
+    categories: ["Artificial Intelligence", "Computer Science Applications"]
+    sjr: 3.686
+    h_index: 269
+    quartile: "Q1"
+    issn: "2162-237X"
+    publisher: "IEEE Computational Intelligence Society"
+    submission_type: "continuous"
+    tags: ["neural-networks", "deep-learning", "RL", "multi-agent"]
+    notes: "High-impact venue for advanced RL, deep-learning, and multi-agent coordination algorithms."
+
+  - title: "Foundations and Trends in Machine Learning"
+    categories: ["Artificial Intelligence"]
+    sjr: 22.797
+    h_index: 42
+    quartile: "Q1"
+    issn: "1935-8237"
+    publisher: "Now Publishers"
+    submission_type: "invitation-only"
+    tags: ["tutorials", "RL", "policy-optimization", "deep-RL"]
+    notes: "Invited monograph series; definitive tutorials on RL, policy optimisation, and deep Q-learning widely cited in academia and industry."
+
+  - title: "Machine Learning: Science and Technology"
+    categories: ["Artificial Intelligence"]
+    sjr: 1.119
+    h_index: 41
+    quartile: "Q1"
+    issn: "2632-2153"
+    publisher: "IOP Publishing"
+    submission_type: "continuous"
+    tags: ["applied-ML", "RL", "quantitative-finance", "interdisciplinary"]
+    notes: "Multidisciplinary ML journal; publishes applied RL research in quantitative finance and materials discovery."
+
+  - title: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    categories: ["Artificial Intelligence", "Computer Vision"]
+    sjr: 3.910
+    h_index: 435
+    quartile: "Q1"
+    issn: "0162-8828"
+    publisher: "IEEE Computer Society"
+    submission_type: "continuous"
+    tags: ["computer-vision", "deep-RL", "representation-learning"]
+    notes: "Premier venue for vision-centric ML; includes pioneering deep RL and representation-learning methods transferable to finance applications."
+
+  - title: "Expert Systems with Applications"
+    categories: ["Artificial Intelligence", "Computer Science Applications"]
+    sjr: 1.854
+    h_index: 111
+    quartile: "Q1"
+    issn: "0957-4174"
+    publisher: "Elsevier"
+    submission_type: "continuous"
+    tags: ["AI-applications", "RL", "financial-systems", "trading"]
+    notes: "Leading venue for AI applications and intelligent systems; publishes reinforcement learning applications across domains including financial decision-making and trading systems."
+
+  - title: "ACM Transactions on Knowledge Discovery from Data"
+    categories: ["Computer Science (miscellaneous)", "Data Mining"]
+    sjr: 1.186
+    h_index: 77
+    quartile: "Q1"
+    issn: "1556-4681"
+    publisher: "Association for Computing Machinery (ACM)"
+    submission_type: "continuous"
+    tags: ["knowledge-discovery", "data-mining", "RL", "financial-data"]
+    notes: "Premier venue for knowledge discovery and data mining research; includes reinforcement learning approaches for financial data analysis and algorithmic trading."
+
+  # Note: The following journal is Q2 but included due to finance relevance
+  - title: "Quantitative Finance (Q2)"
+    categories: ["Finance", "Economics, Econometrics and Finance"]
+    sjr: 0.705
+    h_index: 82
+    quartile: "Q2"
+    issn: "1469-7696"
+    publisher: "Taylor and Francis Ltd."
+    submission_type: "continuous"
+    tags: ["quantitative-finance", "portfolio-optimization", "RL", "risk-management"]
+    notes: "Specialized journal for mathematical finance and quantitative methods; covers reinforcement learning applications in portfolio optimization and risk management. Note: Q2 ranking."

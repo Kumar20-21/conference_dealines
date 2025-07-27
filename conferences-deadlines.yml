@@ -1,0 +1,271 @@
+# Conference deadlines for Reinforcement Learning and Quantitative Finance
+# Focus on deadlines after October 30, 2025 and 2026 conferences
+# Based on A*/A CORE ranking and relevance to RL/Quant Finance
+# Format inspired by ai-deadlines repository
+
+- title: AAMAS
+  full_name: "International Conference on Autonomous Agents and Multiagent Systems"
+  year: 2026
+  id: aamas26
+  link: https://cyprusconferences.org/aamas2026/
+  deadline: 2025-10-08 23:59
+  abstract_deadline: 2025-10-01 23:59
+  timezone: UTC-12
+  date: May 25-29, 2026
+  city: Cyprus
+  country: Cyprus
+  tags: [RL, MARL, Agents, ML]
+  rank: A+
+  hindex: 85
+  venue: "International Foundation for Autonomous Agents and Multiagent Systems"
+
+- title: WWW
+  full_name: "International World Wide Web Conference"
+  year: 2026
+  id: www26
+  link: https://www.thewebconf.org/
+  deadline: 2025-10-14 23:59
+  timezone: AoE
+  date: April-May 2026
+  city: TBD
+  country: TBD
+  tags: [Web, Social, Networks]
+  rank: A+
+  hindex: 145
+  note: "Estimated dates based on historical patterns"
+
+- title: PAKDD
+  full_name: "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
+  year: 2026
+  id: pakdd26
+  link: https://pakdd.org/
+  deadline: 2025-12-14 23:59
+  timezone: PST
+  date: June 2026
+  city: TBD
+  country: TBD
+  tags: [KDD, DM, ML]
+  rank: A
+  hindex: 55
+  note: "Estimated dates based on historical patterns"
+
+- title: ICML
+  full_name: "International Conference on Machine Learning"
+  year: 2026
+  id: icml26
+  link: https://icml.cc/
+  deadline: 2026-01-30 23:59
+  abstract_deadline: 2026-01-23 23:59
+  timezone: AoE
+  date: July 2026
+  city: TBD
+  country: TBD
+  tags: [ML, RL, DL]
+  rank: A+
+  hindex: 195
+  note: "Estimated dates based on historical patterns"
+
+- title: IJCAI
+  full_name: "International Joint Conference on Artificial Intelligence"
+  year: 2026
+  id: ijcai26
+  link: https://ijcai.org/
+  deadline: 2026-01-23 23:59
+  abstract_deadline: 2026-01-16 23:59
+  timezone: AoE
+  date: August 2026
+  city: TBD
+  country: TBD
+  tags: [AI, RL, ML]
+  rank: A+
+  hindex: 165
+  note: "Estimated dates based on historical patterns"
+
+- title: COLT
+  full_name: "Annual Conference on Computational Learning Theory"
+  year: 2026
+  id: colt26
+  link: https://learningtheory.org/
+  deadline: 2026-02-06 17:00
+  timezone: US/Eastern
+  date: June-July 2026
+  city: TBD
+  country: TBD
+  tags: [LT, RL, Theory]
+  rank: A+
+  hindex: 65
+  note: "Estimated dates based on historical patterns"
+
+- title: UAI
+  full_name: "Conference on Uncertainty in Artificial Intelligence"
+  year: 2026
+  id: uai26
+  link: https://www.auai.org/
+  deadline: 2026-02-10 23:59
+  timezone: AoE
+  date: July 2026
+  city: TBD
+  country: TBD
+  tags: [Uncertainty, Probability, RL]
+  rank: A+
+  hindex: 75
+  note: "Estimated dates based on historical patterns"
+
+- title: SIGKDD
+  full_name: "ACM International Conference on Knowledge Discovery and Data Mining"
+  year: 2026
+  id: kdd26
+  link: https://kdd.org/
+  deadline: 2026-02-10 23:59
+  abstract_deadline: 2026-02-03 23:59
+  timezone: AoE
+  date: August 2026
+  city: TBD
+  country: TBD
+  tags: [DM, ML, RL]
+  rank: A+
+  hindex: 125
+  note: "Estimated dates based on historical patterns"
+
+- title: EC
+  full_name: "ACM Conference on Electronic Commerce"
+  year: 2026
+  id: ec26
+  link: https://ec26.sigecom.org/
+  deadline: 2026-02-10 23:59
+  abstract_deadline: 2026-02-03 23:59
+  timezone: AoE
+  date: July 2026
+  city: TBD
+  country: TBD
+  tags: [Economics, Game Theory, RL]
+  rank: A
+  hindex: 65
+  note: "Estimated dates based on historical patterns"
+
+- title: ECML
+  full_name: "European Conference on Machine Learning"
+  year: 2026
+  id: ecml26
+  link: https://ecmlpkdd.org/
+  deadline: 2026-03-14 23:59
+  abstract_deadline: 2026-03-07 23:59
+  timezone: AoE
+  date: September 2026
+  city: TBD
+  country: TBD
+  tags: [ML, DM, RL]
+  rank: A
+  hindex: 75
+  note: "Estimated dates based on historical patterns"
+
+- title: NeurIPS
+  full_name: "Advances in Neural Information Processing Systems"
+  year: 2026
+  id: neurips26
+  link: https://neurips.cc/
+  deadline: 2026-05-15 23:59
+  abstract_deadline: 2026-05-11 23:59
+  timezone: AoE
+  date: December 2026
+  city: TBD
+  country: TBD
+  tags: [ML, DL, RL]
+  rank: A+
+  hindex: 210
+  note: "Estimated dates based on historical patterns"
+
+- title: KR
+  full_name: "International Conference on Principles of Knowledge Representation and Reasoning"
+  year: 2026
+  id: kr26
+  link: https://kr.org/
+  deadline: 2026-05-12 23:59
+  abstract_deadline: 2026-05-07 23:59
+  timezone: AoE
+  date: November 2026
+  city: TBD
+  country: TBD
+  tags: [KR, Logic, Reasoning]
+  rank: A+
+  hindex: 55
+  note: "Estimated dates based on historical patterns"
+
+- title: CIKM
+  full_name: "ACM International Conference on Information and Knowledge Management"
+  year: 2026
+  id: cikm26
+  link: https://cikm.org/
+  deadline: 2026-06-06 23:59
+  abstract_deadline: 2026-05-30 23:59
+  timezone: AoE
+  date: November 2026
+  city: TBD
+  country: TBD
+  tags: [IR, KM, ML]
+  rank: A
+  hindex: 85
+  note: "Estimated dates based on historical patterns"
+
+- title: ICDM
+  full_name: "IEEE International Conference on Data Mining"
+  year: 2026
+  id: icdm26
+  link: https://icdm.cs.uic.edu/
+  deadline: 2026-06-06 23:59
+  timezone: AoE
+  date: November 2026
+  city: TBD
+  country: TBD
+  tags: [DM, ML, RL]
+  rank: A+
+  hindex: 95
+  note: "Estimated dates based on historical patterns"
+
+- title: ICAIF
+  full_name: "ACM International Conference on AI in Finance"
+  year: 2026
+  id: icaif26
+  link: https://ai-finance.org/
+  deadline: 2026-06-15 23:59
+  timezone: AoE
+  date: November 2026
+  city: TBD
+  country: TBD
+  tags: [Finance, AI, RL, Quant]
+  rank: None
+  hindex: 25
+  note: "Finance-specific AI conference - not CORE ranked but highly relevant"
+
+- title: AAAI
+  full_name: "Association for the Advancement of Artificial Intelligence Conference"
+  year: 2026
+  id: aaai26
+  link: https://aaai.org/conference/aaai/aaai-26/
+  deadline: 2025-08-01 23:59
+  abstract_deadline: 2025-07-25 23:59
+  timezone: UTC-12
+  date: January 20-27, 2026
+  city: Singapore
+  country: Singapore
+  tags: [ML, AI, RL]
+  rank: A+
+  hindex: 180
+  note: "Past deadline but major venue"
+
+# Additional conferences for completeness
+- title: AAAI
+  full_name: "Association for the Advancement of Artificial Intelligence Conference"
+  year: 2027
+  id: aaai27
+  link: https://aaai.org/
+  deadline: 2026-08-01 23:59
+  abstract_deadline: 2026-07-25 23:59
+  timezone: UTC-12
+  date: January 2027
+  city: TBD
+  country: TBD
+  tags: [ML, AI, RL]
+  rank: A+
+  hindex: 180
+  note: "Estimated dates for 2027 - within timeline"

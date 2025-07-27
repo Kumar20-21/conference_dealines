@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" data-color-scheme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RL & Quantitative Finance Deadlines</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header py-16">
+      <div class="container flex flex-col gap-16">
+        <h1>RL &amp; Quantitative Finance Deadlines</h1>
+        <div class="filters flex flex-wrap gap-8">
+          <input
+            type="search"
+            id="searchInput"
+            class="form-control"
+            placeholder="Search venues …"
+          />
+
+          <select id="typeFilter" class="form-control">
+            <option value="all">All Types</option>
+            <option value="conference">Conferences</option>
+            <option value="journal">Journals</option>
+          </select>
+
+          <select id="rankFilter" class="form-control">
+            <option value="all">All Ranks</option>
+            <option value="A+">A+</option>
+            <option value="A">A</option>
+            <option value="None">None</option>
+          </select>
+
+          <select id="areaFilter" class="form-control">
+            <option value="all">All Research Areas</option>
+          </select>
+
+          <select id="timeFilter" class="form-control">
+            <option value="all">All Time</option>
+            <option value="30">Next 30 days</option>
+            <option value="90">Next 90 days</option>
+            <option value="2026">Year 2026</option>
+          </select>
+
+          <select id="sortSelect" class="form-control">
+            <option value="deadline">Sort by Deadline</option>
+            <option value="name">Sort by Name</option>
+            <option value="rank">Sort by Rank</option>
+          </select>
+
+          <button id="toggleViewBtn" class="btn btn--outline btn--sm">
+            Grid View
+          </button>
+
+          <button id="themeToggleBtn" class="btn btn--outline btn--sm">
+            Dark Mode
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <section class="stats py-16">
+      <div class="container flex gap-16" id="statsContainer"></div>
+    </section>
+
+    <main class="container">
+      <div id="cardsContainer" class="cards grid-view gap-16"></div>
+    </main>
+
+    <footer class="py-16">
+      <div class="container flex justify-between items-center">
+        <p>Data last updated: July 27, 2025</p>
+        <p>
+          Built with <span aria-label="love">❤️</span> using Perplexity Design
+          System
+        </p>
+      </div>
+    </footer>
+
+    <!-- Luxon for date & timezone handling -->
+    <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.0/build/global/luxon.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
