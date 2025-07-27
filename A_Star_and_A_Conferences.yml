@@ -1,0 +1,127 @@
+# Conference database for A+/A CORE conferences welcoming RL and quantitative finance research
+
+- title: AAAI
+  full_name: "National Conference of the American Association for Artificial Intelligence"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: AAMAS
+  full_name: "International Conference on Autonomous Agents and Multiagent Systems"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: COLT
+  full_name: "Annual Conference on Computational Learning Theory"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: ICDM
+  full_name: "IEEE International Conference on Data Mining"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: ICML
+  full_name: "International Conference on Machine Learning"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: IJCAI
+  full_name: "International Joint Conference on Artificial Intelligence"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: KR
+  full_name: "International Conference on Principles of KR & Reasoning"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: NeurIPS
+  full_name: "Advances in Neural Information Processing Systems"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: SIGKDD
+  full_name: "ACM International Conference on Knowledge Discovery and Data Mining"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: UAI
+  full_name: "Conference in Uncertainty in Artificial Intelligence"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: WWW
+  full_name: "International World Wide Web Conference"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: CIKM
+  full_name: "ACM International Conference on Information and Knowledge Management"
+  rank: "A"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: EC
+  full_name: "ACM Conference on Electronic Commerce"
+  rank: "A"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: ECML
+  full_name: "European Conference on Machine Learning"
+  rank: "A"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: PAKDD
+  full_name: "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
+  rank: "A"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: SDM
+  full_name: "SIAM International Conference on Data Mining"
+  rank: "A"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: ICAIF
+  full_name: "ACM International Conference on AI in Finance"
+  rank: "None"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
+- title: CIFEr
+  full_name: "IEEE Symposium on Computational Intelligence for Financial Engineering and Economics"
+  rank: "C"
+  tags:
+  - reinforcement-learning
+  - quantitative-finance
