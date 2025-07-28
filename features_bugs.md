@@ -12,3 +12,4 @@
 - Special issues deadlines
 - Include all 18 conferences and 18 Journals in the database.
 - Move to Vercel for Hosting and Rebuilt on React, TailwindCSS, TypeScript
+- Request a paper
