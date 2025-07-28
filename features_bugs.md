@@ -1,0 +1,14 @@
+- Login/Sign Up page: Supabase
+- Email Notification via Resend API:
+   - Send notifications 60, 30 and 7 days before call for papers (CFP) deadline.
+   - Send last notification only if deadline is deadline for CFP is extended.
+- Inside Login: Personal Watchlist
+- Web Crawler:
+   - Crawl Every 30 days.
+   - If conference end date >= Today: No crawling for that conference
+   - If conference end date < Today:
+       - Wecrawl for next year deadline for call for papers (CFP) and conference dates, new venue
+- Unknown Deadlines
+- Special issues deadlines
+- Include all 18 conferences and 18 Journals in the database.
+- Move to Vercel for Hosting and Rebuilt on React, TailwindCSS, TypeScript
