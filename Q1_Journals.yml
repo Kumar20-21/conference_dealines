@@ -9,7 +9,7 @@
 #   issn: print / electronic ISSN codes when available
 #   publisher: publishing organisation
 #   notes: brief relevance to RL / quant-finance research
-
+# 18 Journals and 18 conferences.
 journals:
   - title: "Journal of Finance"
     categories: ["Finance"]
@@ -145,6 +145,7 @@ journals:
     issn: "0162-8828"
     publisher: "IEEE Computer Society"
     notes: "Premier venue for vision-centric ML; includes pioneering deep RL and representation-learning methods transferable to finance applications."
+  
   - title: "Expert Systems with Applications"
     categories: ["Artificial Intelligence", "Computer Science Applications"]
     sjr: 1.854
