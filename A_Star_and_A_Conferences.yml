@@ -1,4 +1,5 @@
 # Conference database for A+/A CORE conferences welcoming RL and quantitative finance research
+# Verified List of 19 conferences
 
 - title: AAAI
   full_name: "National Conference of the American Association for Artificial Intelligence"
@@ -63,9 +64,16 @@
     - reinforcement-learning
     - quantitative-finance
 
+- title: EC
+  full_name: "ACM Conference on Economics and Computation"
+  rank: "A+"
+  tags:
+    - reinforcement-learning
+    - quantitative-finance
+
 - title: UAI
   full_name: "Conference in Uncertainty in Artificial Intelligence"
-  rank: "A+"
+  rank: "A"
   tags:
     - reinforcement-learning
     - quantitative-finance
@@ -91,7 +99,7 @@
     - reinforcement-learning
     - quantitative-finance
 
-- title: ECML
+- title: ECML PKDD
   full_name: "European Conference on Machine Learning"
   rank: "A"
   tags:
